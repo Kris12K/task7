@@ -1,0 +1,6 @@
+C:\Users\Z\Desktop\task7-(25)\task7-(25)\bin\Debug\task7-(25).exe.config
+C:\Users\Z\Desktop\task7-(25)\task7-(25)\bin\Debug\task7-(25).exe
+C:\Users\Z\Desktop\task7-(25)\task7-(25)\bin\Debug\task7-(25).pdb
+C:\Users\Z\Desktop\task7-(25)\task7-(25)\obj\Debug\task7-(25).csprojResolveAssemblyReference.cache
+C:\Users\Z\Desktop\task7-(25)\task7-(25)\obj\Debug\task7-(25).exe
+C:\Users\Z\Desktop\task7-(25)\task7-(25)\obj\Debug\task7-(25).pdb
